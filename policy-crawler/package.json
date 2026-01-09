@@ -1,0 +1,14 @@
+{
+  "name": "policy-checker",
+  "version": "1.0.0",
+  "description": "Automated website policy compliance checker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "setup": "npm install && npx playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "xlsx": "^0.18.5"
+  }
+}

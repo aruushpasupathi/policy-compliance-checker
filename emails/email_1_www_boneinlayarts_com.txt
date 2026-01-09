@@ -1,0 +1,26 @@
+To: boneinlayarts@gmail.com
+Subject: PayGlocal Onboarding: Website Updates Needed
+
+Dear POONAM ALREJA,
+
+Following our initial review for your PayGlocal onboarding, we need your assistance to ensure your website meets our required compliance standards.
+
+Please implement the following updates on https://www.boneinlayarts.com:
+
+1. As the company has been registered as a proprietorship, RBI guidelines require you to display your legal name on the website. Please update the website to display your registered legal name: POONAM ALREJA
+
+   Possible locations to display your legal name:
+   • Website Footer (Most common)
+   • About Us page
+   • Contact Us page
+   • Site-Wide copyright notice (e.g., "© 2026 POONAM ALREJA. All rights reserved.")
+
+2. It is required that you add the following policies to your website for legal protection:
+   • Cancellation Policy
+
+These updates are necessary before we can activate your account. Once completed, kindly notify us so we can verify and proceed.
+
+Thank you for your prompt attention to this.
+
+Sincerely,
+PayGlocal Onboarding Team
